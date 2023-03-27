@@ -975,7 +975,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 
 .product-minimal .showcase-wrapper {
   display: flex;
-  align-items:right;
+  align-items:center;
   overflow-x: auto;
   overscroll-behavior-inline: contain;
   scroll-snap-type: inline mandatory;
@@ -990,7 +990,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .product-minimal .showcase {
   display: flex;
   justify-content: flex-start;
-  align-items:left;
+  align-items:center;
   gap: 15px;
   border: 1px solid var(--cultured);
   padding: 15px;
@@ -1024,7 +1024,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 
 .product-minimal .price-box {
   display: flex;
-  align-items:left;
+  align-items:center;
   gap: 10px;
 }
 
