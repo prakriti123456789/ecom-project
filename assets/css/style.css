@@ -938,7 +938,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 
 .sidebar .showcase-rating {
   display: flex;
-  align-items:left;
+  align-items:center;
   color: var(--sandy-brown);
   font-size: 13px;
   padding: 4px 0;
